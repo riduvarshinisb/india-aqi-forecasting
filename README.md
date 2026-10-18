@@ -57,7 +57,7 @@ The change-based approach was also checked on 2019 validation data (MAE 26.75 vs
 
 AQI follows a strong yearly cycle. The median is about 185 in November–January and about 85 in July–August, driven by winter inversions, crop-stubble burning and Diwali, while the monsoon washes pollution out of the air.
 
-## Run it yourself
+## To Run 
 
 ```
 pip install -r requirements.txt
